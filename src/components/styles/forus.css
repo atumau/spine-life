@@ -55,12 +55,13 @@ margin-top: 15px;
         width: 295px;
     
     }
-    .head-para{
-        display: flex;
-        width: 17rem;
-        text-align: center;
-        margin-left: 15px;
-        }
+
+   .head-para {
+    display: flex;
+    width: 18rem;
+    text-align: center;
+   }
+        
     .para{
             display: flex;
             width: 18rem;
