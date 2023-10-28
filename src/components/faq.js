@@ -18,7 +18,7 @@ function FAQSection() {
         answer: "We manufacture a wide range of electric machines, including motors, generators, alternators, and more. Our products cater to various applications and industries."
       },
       {
-        question: "Can you design custom electric machines for specific requirements?",
+        question: "Can you design electric machines for requirements?",
         answer: "Yes, we specialize in custom electric machine design. Our engineering team will work closely with you to create tailored solutions that meet your unique needs."
       },
       {
@@ -30,7 +30,7 @@ function FAQSection() {
         answer: "We offer comprehensive maintenance and repair services to keep your electric machines running smoothly. Our technicians can diagnose issues and perform repairs to minimize downtime."
       },
       {
-        question: "How can I improve the energy efficiency of my electric machines?",
+        question: "How can I improve the energy of my electric machines?",
         answer: "We provide energy efficiency consultation services. Our experts can analyze your systems and provide recommendations to optimize energy efficiency, reducing both costs and environmental impact."
       },
       {
@@ -46,11 +46,11 @@ function FAQSection() {
         answer: "We prioritize environmentally friendly practices in our manufacturing processes. We offer energy-efficient solutions and can help you reduce your carbon footprint with our products and services."
       },
       {
-        question: "What certifications and standards do your electric machines meet?",
+        question: "What certifications do your electric machines meet?",
         answer: "Our electric machines meet industry-specific certifications and standards, ensuring they adhere to quality, safety, and performance benchmarks. We can provide details on the specific certifications upon request."
       },
       {
-        question: "Can you provide references or case studies of your previous work?",
+        question: "Can you provide references of your previous work?",
         answer: "Yes, we have a portfolio of successful projects and satisfied customers. We'd be happy to provide references or case studies that showcase our expertise and the quality of our electric machines."
       },
       {
@@ -58,15 +58,15 @@ function FAQSection() {
         answer: "Lead times can vary based on the complexity and quantity of the order. We'll provide you with an estimated lead time upon discussing your specific requirements, ensuring timely manufacturing and delivery."
       },
       {
-        question: "Do you offer training for our staff on operating your electric machines?",
+        question: "Do you offer training on operating your electric machines?",
         answer: "Yes, we provide training and support to ensure that your staff is proficient in operating and maintaining our electric machines. We're committed to helping you get the most out of our products."
       },
       {
-        question: "What is your warranty and support policy for your electric machines?",
+        question: "What is your warranty policy for your electric machines?",
         answer: "We offer warranties on our electric machines, and our support team is available to address any issues during the warranty period. We're dedicated to providing reliable after-sales service to our customers."
       },
       {
-        question: "What materials and components are used in your electric machines?",
+        question: "What materials are used in your electric machines?",
         answer: "We use high-quality materials and components to ensure the durability and reliability of our electric machines. Our products are built to meet industry standards and perform consistently over time."
       },
       {

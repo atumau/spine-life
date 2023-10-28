@@ -31,7 +31,7 @@ const List = () => {
                         <p className='card-text'>{description}</p>
                         <h6 className='card-price'>Price: {price}</h6>
                         <Link to='/contact'>
-                          <button className='btn1 btn-primary'>
+                          <button className='btn1 btn-primary'data-aos="flip-left">
                             Buy Product
                           </button>
                         </Link>

@@ -89,7 +89,7 @@ const forus = () => {
                   <p>Best service and delivery</p>
                 </div>
               </div>
-              <button type="button" className="btn btn-lg butt1">
+              <button type="button" className="btn btn-lg butt4">
                 THE SPINELINE DIFFERENCE
               </button>
             </div>
