@@ -42,7 +42,7 @@ margin-top: 15px;
 }
 .content2{
     display: flex;
-    justify-content:baseline;
+    justify-content:space-between;
     gap:20px
 }
 
@@ -52,19 +52,19 @@ margin-top: 15px;
         flex-direction: column;
     }
     .image{
-        width: 295px;
-    
+        width: 20rem;
+       padding: 0;
     }
-
-   .head-para {
-    display: flex;
-    width: 18rem;
-    text-align: center;
-   }
+    .head-para{
+        display: flex;
+        width: 19rem;
+        text-align: center;
         
+        }
     .para{
             display: flex;
-            width: 18rem;
+            width: 17rem;
+            margin-left: 1rem;
             text-align: center;
         
         }
@@ -76,7 +76,10 @@ margin-top: 15px;
         display: flex;
         flex-direction: column;
         
-     }  
+     } 
+     .content2{
+        margin-left: 32px;
+     } 
      .butt4{
         background-color:chocolate;
         font-weight: 700;
@@ -89,7 +92,7 @@ margin-top: 15px;
         width: 18rem;
         height: 4rem;
         margin-bottom: 10px;
-    
+        margin-left: 32px;
       }
      
 }
